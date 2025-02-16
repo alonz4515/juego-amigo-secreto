@@ -1,4 +1,7 @@
-<h1>🕺 Bienvenido al Juego del Amigo Secreto 💃</h1>
+<h1 align="center"> 🪩🕺 Bienvenido al Juego del Amigo Secreto 💃 🪩 </h1>
+<p align="left">
+  <img src="https://img.shields.io/badge/ESTADO-EN_DESARROLLO-green">
+</p>
 
 <p>Si eres una de esas personas que siempre tienen una excusa para descartar el "Juego del Amigo Secreto", ya sea porque es muy repetido (Especialmente para las navidades :3), o de que la logica del juego ya es algo obsoleta con los papelitos con nombres ingresados en una bolsita que esta siendo agitada por uno de tus amigos para sortear un nombre que probablemente sea quien menos quieras se transforme en tu Amigo Secreto, esta versión del "Juego del Amigo Secreto" es para Ti! (o quizas no realmente.)</p>
 <p>Especialmente pensado para quienes tenemos ese problema de inseguridad y desconfianza de que realmente nos tocara alguien al AZAR, este proyecto nos trae la dicha de la aplicación de tecnología de vanguardia para dar solución a esta problemática. El código que se usa en este juego, tiene el sentido lógico de evitar esos cuellos de botella en los cuales no quieres que otra vez salga tu suegra como Amiga Secreta (otra vez no... Un chocolate ya no servirá, o los siempre faciles y nada comprometedores calcetines), disminuyendo sus posibilidades mediante una codificacion estructurada en JavaScript, y detalladamente revisada con la ayuda de la IA de Copilot. (A que no es una maravilla? n.n)</p>
@@ -22,7 +25,14 @@ Espero puedas tener la suerte de que se sortee a quien realmente quieres como Am
 
 
 Se despide, Alonz4515.
-<h2>&#128587;</h2>
+&#128587;
 
+<h2>✔️ Tecnologias utilizadas</h2>
+
+- `JavaScript`
+- `HTML`
+- `CSS`
+
+<br>
 
 <h4>PD: Esperamos que puedas recibir un buen regalo igualmente si sales sorteado/a a tu amigo o amiga. Sabemos lo fome que es recibir una colonia Flaño (Sin desprestigiar a esta colonia, ya que mi Viejo la utilizaba siempre) o un desodorante comprado en la feria. (Por favor gente! Sean mas ocurrentes! Despavilen un poco! :P 🦃) Todos merecemos un regalo digno de nuestra identidad y gusto, asi que, ojala quien haya sido sorteado con tu nombre, sea una persona genial y te regale una cabaña en la playa con vista al mar. Jajaja Porque no? 🐣</h4>
